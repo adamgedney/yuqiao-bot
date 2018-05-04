@@ -1,0 +1,22 @@
+{
+  "name": "yuqiao-bot",
+  "version": "1.0.0",
+  "description": "This bot runs when a sensor detects yuqiao got in his gassless car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamgedney/yuqiao-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamgedney/yuqiao-bot/issues"
+  },
+  "homepage": "https://github.com/adamgedney/yuqiao-bot#readme",
+  "dependencies": {
+    "slack-node": "^0.1.8"
+  }
+}
