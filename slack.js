@@ -12,7 +12,7 @@ module.exports = {
     slack.webhook({
       // channel: "@adamgedney",
       username: "yuqiao",
-      icon_emoji: "http://www.strangekidsclub.com/wp-content/uploads/2013/02/jack-chan-a-2.png",
+      icon_emoji: "https://image.ibb.co/e6Je9S/Screen_Shot_2018_05_04_at_11_31_00_AM.png",
       text: message
     }, function(err, response) {
       cb(response);
