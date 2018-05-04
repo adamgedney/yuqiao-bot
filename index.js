@@ -1,3 +1,7 @@
-var rxsource = require('./lib/index.min.js').default;
+(function(timeInt) {
+  const statement = `in ${timeInt}`;
 
-module.exports = rxsource;
+  console.log(statement);
+  
+  return statement;
+})(15);
