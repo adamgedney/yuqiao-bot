@@ -13,7 +13,6 @@ module.exports = {
       // channel: "@adamgedney",
       username: "yuqiao",
       icon_emoji: "http://www.strangekidsclub.com/wp-content/uploads/2013/02/jack-chan-a-2.png",
-      // icon_emoji: "https://slack.com/img/icons/app-57.png",
       text: message
     }, function(err, response) {
       cb(response);
