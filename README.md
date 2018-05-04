@@ -1,1 +1,1 @@
-This bot must be run  on a sensiry when yuqiao gets in his car
+This bot runs when a sensor detects yuqiao got in his gassless car
