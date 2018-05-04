@@ -1,1 +1,3 @@
-const SLACK_API_KEY = ""
+module.exports = {
+  SLACK_WEBHOOK_URI: ""
+}
