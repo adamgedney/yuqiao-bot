@@ -4,7 +4,9 @@
   "description": "This bot runs when a sensor detects yuqiao got in his gassless car",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "adam": "node index.js adam 0",
+    "yu": "node index.js yuqiao 15",
+    "eli": "node index.js eli 10"
   },
   "repository": {
     "type": "git",
