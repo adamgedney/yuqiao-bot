@@ -9,7 +9,10 @@
   
   switch (bot) {
   	case 'adam' :
-  		statement = `How was Friday? Did you meet the goal? How about today? What are you aiming for?`;
+  	// MOnday is a different adambot message
+  		statement = new Date().getDay() === 1 
+	  		? `How was Friday? Did you meet the goal? How about today? What are you aiming for?` 
+	  		: `How did it go yesterday? Did you meet your goals? What's the goal for today?`;
   		channel = "G9NL1RC85";
   		icon = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Circle-icons-rocket.svg/150px-Circle-icons-rocket.svg.png";
   		username = "adamgedney";
