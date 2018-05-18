@@ -9,7 +9,8 @@
     "eli": "node index.js eli 10",
     "erica": "node index.js erica 1",
     "ey": "node index.js eriqiao 15",
-    "sean": "node index.js sean 0"
+    "sean": "node index.js sean 0",
+    "kyle": "node index.js kyle 10"
   },
   "repository": {
     "type": "git",

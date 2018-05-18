@@ -42,7 +42,13 @@
   		statement = `:thinking_face:`;
   		// channel = "D8PSA1T8V";// @adam @sean
   		icon = "https://image.ibb.co/jVb3RJ/Screen_Shot_2018_05_18_at_10_43_04_AM.png";
-  		username = "sean";
+  		username = "Sean Currie";
+  		break;
+    case 'kyle' :
+  		statement = `@channel may we have a meeting in ${timeInt} minutes?`;
+  		channel = "C03A50ANL";// C03A50ANL = #random
+  		icon = "https://image.ibb.co/gSgbfd/Screen_Shot_2018_05_18_at_10_46_49_AM.png";
+  		username = "kyle";
   		break;
   	case 'yuqiao' :
     default :
