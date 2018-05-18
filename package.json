@@ -6,7 +6,9 @@
   "scripts": {
     "adam": "node index.js adam 0",
     "yu": "node index.js yuqiao 15",
-    "eli": "node index.js eli 10"
+    "eli": "node index.js eli 10",
+    "erica": "node index.js erica 1",
+    "ey": "node index.js eriqiao 15"
   },
   "repository": {
     "type": "git",
