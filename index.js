@@ -38,6 +38,12 @@
   		icon = "https://image.ibb.co/bQnUGJ/Screen_Shot_2018_05_18_at_10_13_11_AM.png";
   		username = "eriqiao";
   		break;
+    case 'sean' :
+  		statement = `:thinking_face:`;
+  		// channel = "D8PSA1T8V";// @adam @sean
+  		icon = "https://image.ibb.co/jVb3RJ/Screen_Shot_2018_05_18_at_10_43_04_AM.png";
+  		username = "sean";
+  		break;
   	case 'yuqiao' :
     default :
   		statement = `${timeInt}`;

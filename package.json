@@ -8,7 +8,8 @@
     "yu": "node index.js yuqiao 15",
     "eli": "node index.js eli 10",
     "erica": "node index.js erica 1",
-    "ey": "node index.js eriqiao 15"
+    "ey": "node index.js eriqiao 15",
+    "sean": "node index.js sean 0"
   },
   "repository": {
     "type": "git",
