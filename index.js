@@ -26,7 +26,7 @@
   		break;
   	case 'erica' :
   		statement = `${timeInt}`;
-  		channel = "D8PSA1T8V";// @adam @sean
+  		// channel = "D8PSA1T8V";// @adam @sean
   		// channel = "i-will-b-late";
   		icon = "https://image.ibb.co/bQnUGJ/Screen_Shot_2018_05_18_at_10_13_11_AM.png";
   		username = "erica";
