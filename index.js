@@ -11,8 +11,8 @@
   	case 'adam' :
   	// MOnday is a different adambot message
   		statement = new Date().getDay() === 1 
-	  		? `How was Friday? Did you meet the goal? How about today? What are you aiming for?` 
-	  		: `How did it go yesterday? Did you meet your goals? What's the goal for today?`;
+	  		? `1.Did you meet Friday's goal(Yes/No)? 2.What did you or didn't you complete Friday? 3.How about today? What are you aiming for?` 
+	  		: `1.Did you meet yesterday's goals(Yes/No)? 2.What did you or didn't you complete yesterday? 3.What's the goal for today?`;
   		channel = "G9NL1RC85";// @adamgedney, @erica, @marcopolo25
   		icon = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Circle-icons-rocket.svg/150px-Circle-icons-rocket.svg.png";
   		username = "adamgedney";
